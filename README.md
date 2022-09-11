@@ -20,4 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 https://www.youtube.com/watch?v=MoCMM0u4oGY
 https://www.youtube.com/watch?v=b17bmcRpSuU
 https://www.youtube.com/watch?v=nyvwx7o277U
+https://docs-flutter-dev.translate.goog/development/ui/navigation?_x_tr_sl=en&_x_tr_tl=hy&_x_tr_hl=hy&_x_tr_pto=op,sc
+https://docs.flutter.dev/cookbook/navigation/named-routes
 ### #######################################
