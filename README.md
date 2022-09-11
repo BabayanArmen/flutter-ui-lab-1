@@ -22,4 +22,20 @@ https://www.youtube.com/watch?v=b17bmcRpSuU
 https://www.youtube.com/watch?v=nyvwx7o277U
 https://docs-flutter-dev.translate.goog/development/ui/navigation?_x_tr_sl=en&_x_tr_tl=hy&_x_tr_hl=hy&_x_tr_pto=op,sc
 https://docs.flutter.dev/cookbook/navigation/named-routes
-### #######################################
+
+### nested routes
+https://www.youtube.com/watch?v=9oH42_Axr3Q&t=904s
+
+### new router
+https://www.youtube.com/watch?v=smYI6XbgeIk
+
+### expanded widget
+https://www.youtube.com/watch?v=N1FMX4rDn6Y
+https://www.youtube.com/watch?v=_rnZaagadyo
+
+### flutter flex
+https://www.youtube.com/watch?v=CI7x0mAZiY0
+
+### grid view
+https://www.youtube.com/watch?v=bLOtZDTm4H8
+https://www.youtube.com/watch?v=0blNt4XIi0g
